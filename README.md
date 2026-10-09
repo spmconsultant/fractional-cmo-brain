@@ -32,6 +32,12 @@ Phone: [214.466.8332](tel:+12144668332)
 
 Want the Brain applied to your business? Book a free 2-hour strategy session at [jrcmo.com](https://jrcmo.com).
 
+## Privacy
+
+The Fractional CMO Brain is a set of instructions and reference files that run inside Claude. It does not collect, store, or send any personal data. It makes no network requests and has no connection to JRcmo systems. Your conversations stay between you and Claude under Anthropic's own privacy terms.
+
+For JRcmo's general privacy policy, see [jrcmo.com/privacy-policy](https://jrcmo.com/privacy-policy/).
+
 ## License
 
 Copyright © 2026 Joshua Ramsey / JRcmo. All rights reserved. See [LICENSE](LICENSE).
