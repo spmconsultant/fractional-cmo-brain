@@ -1,0 +1,14 @@
+{
+  "name": "jrcmo",
+  "owner": {
+    "name": "Joshua Ramsey",
+    "url": "https://jrcmo.com"
+  },
+  "plugins": [
+    {
+      "name": "fractional-cmo-brain",
+      "source": "./",
+      "description": "Joshua Ramsey's Fractional CMO Brain: marketing laws, principles, strategies and playbooks for Claude."
+    }
+  ]
+}
