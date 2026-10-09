@@ -34,4 +34,4 @@ Want the Brain applied to your business? Book a free 2-hour strategy session at 
 
 ## License
 
-Copyright © 2026 Joshua Ramsey / JRcmo. All rights reserved. You may install and use the Fractional CMO Brain for your own business. You may not resell or redistribute it without written permission.
+Copyright © 2026 Joshua Ramsey / JRcmo. All rights reserved. See [LICENSE](LICENSE).

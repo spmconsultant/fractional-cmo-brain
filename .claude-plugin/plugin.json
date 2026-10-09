@@ -1,5 +1,6 @@
 {
   "name": "fractional-cmo-brain",
+  "displayName": "Fractional CMO Brain",
   "version": "0.1.0",
   "description": "Joshua Ramsey's Fractional CMO Brain: marketing laws, principles, strategies and playbooks for Claude.",
   "author": {
@@ -7,6 +8,13 @@
     "url": "https://jrcmo.com"
   },
   "homepage": "https://jrcmo.com",
-  "license": "SEE LICENSE IN README.md",
-  "keywords": ["marketing", "fractional cmo", "strategy", "growth", "jrcmo"]
+  "repository": "https://github.com/spmconsultant/fractional-cmo-brain",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "marketing",
+    "fractional cmo",
+    "strategy",
+    "growth",
+    "jrcmo"
+  ]
 }
