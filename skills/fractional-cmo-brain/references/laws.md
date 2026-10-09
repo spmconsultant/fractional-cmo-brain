@@ -75,8 +75,11 @@ A purchase happens when all four are present. Over-investing in one can't make u
 ## Law 8. The Check-Writing Test
 **If the owner can't name the number when they sign the check, the account is already lost.**
 
-- Every marketing investment needs one number the owner is watching, agreed before the money moves. If the owner can't say what they're paying to get, any result will feel like a loss.
-- Law 15 (Don't Trust the Zero) is the data discipline behind this law.
+- Marketing is tied to revenue or it's tied to nothing. When the owner signs the monthly marketing check, their mind has to land on a revenue number they care about, such as fifty new customers or three hundred booked jobs. If it lands on nothing, the account is lost however good the work is.
+- Build the plan backward from revenue to the lead. Agree the one KPI before work starts and put it in writing. Brand, design and content support revenue but never replace it. Five million impressions is never a finish line.
+- **Break-even math:** monthly marketing cost ÷ gross profit from one new customer = the number of customers needed to break even. Every customer past that is the return. Then work backward through close rate and lead volume (Law 5).
+- **Where it bites back:** owners change the number. Restate the KPI at the start of every meeting and confirm it at the end. When it changes, the work changes with it.
+- Pairs with Law 1 (Two Meanings of ROI) and Law 5 (Law of Thirds). Law 15 (Don't Trust the Zero) is the data discipline behind it.
 
 ## Law 9. Pricing Obscure
 **A round price reads like a guess. A precise one reads like it was worked out.**
