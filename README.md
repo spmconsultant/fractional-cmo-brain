@@ -2,32 +2,30 @@
 
 **Most marketing runs on guesses. Yours should run on laws.**
 
-The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. It's built on four tiers:
+The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 20 marketing laws that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
 
-1. **Laws**: what holds true in marketing no matter the industry or budget
-2. **Principles**: how those laws turn into decisions
-3. **Strategies**: proven plays for growing revenue
-4. **Playbooks**: step-by-step workflows you can run
-
-Ask Claude a marketing question with the Brain installed and you get answers grounded in a framework built from managing $1.5B+ in media, not generic advice.
+Ask Claude a marketing question with the Brain installed and you get answers grounded in those laws, not generic advice.
 
 ## How it works
 
-The Brain is a Claude skill. When you ask a marketing question, Claude loads the skill and works through the four tiers in order:
+The Brain is a Claude skill. When you ask a marketing question, Claude loads the skill and:
 
-1. It finds the **Law** that governs your situation.
-2. It applies the matching **Principle** to frame the decision.
-3. It recommends a **Strategy**.
-4. If you want to act, it walks you through the **Playbook**.
+1. Asks about your business, one question at a time, if it doesn't know it yet.
+2. Finds the **Law** that governs your situation.
+3. Tells you what's breaking it and gives you the fix and a next step.
 
 Everything runs inside Claude. There's no account to create, no connector, and no data leaves your conversation.
+
+## Want the full Brain?
+
+The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbooks**: the order of operations, the reusable plays, and step-by-step run sheets like the AI Search Playbook. Get it at [jrcmo.com](https://jrcmo.com).
 
 ## Example prompts
 
 - "Our Google Ads spend went up 40% this quarter but leads stayed flat. Where is the money leaking?"
-- "I run a $3M home services company with no marketing leader. What should my first 90 days of marketing look like?"
+- "Here's my homepage headline. Which law does it break, and how do I fix it?"
 - "Review my marketing budget split (60% paid search, 25% social, 15% SEO) and tell me what a CMO would change."
-- "We're launching a new service line next month. Build me a go-to-market plan."
+- "My Google Ads report shows 14.62 conversions this month. Should I trust that number?"
 - "Which marketing KPIs should I lock in on day one so I know if this is working in 30 days?"
 
 ## Install

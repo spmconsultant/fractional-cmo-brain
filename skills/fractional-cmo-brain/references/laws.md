@@ -160,3 +160,25 @@ A purchase happens when all four are present. Over-investing in one can't make u
 - AI assistants don't rank pages. They assemble one answer from passages they can lift cleanly and confirm elsewhere. A page can rank well and still never get cited.
 - **The 150-Word Test:** cover everything except the first 150 words of the page and ask whether an AI could answer the searcher's question from that alone.
 - Be quotable (state the answer plainly, early) and confirmable (say the same thing about your business everywhere). An AI that finds three versions of your business trusts none of them.
+
+## Law 20. The Confidence Gap
+**Your buyer is standing on the other side of a gap. Marketing's job is to build the bridge they walk across.**
+
+- The business stands on one cliff, the buyer on the other. The bridge is made of trust, but not the word "trust." Platitudes fall into the gap. Specific, checkable details hold weight.
+- **The Plank Test:** for every claim, ask "could the buyer check this before they cross?" If yes, it's a plank. If no, it's decoration, and it breaks under weight.
+- The gap is the four barriers from Law 2: risk, confusion, relevance and emotional resistance. Each one needs its own planks. The bridge hangs from four cables (Depend, Like, Relate, Knowledge). Cut one and it drops.
+- Pairs with Law 4 (The Law of Platitudes) and Law 12 (Stale Proof Is False Proof).
+
+---
+
+## The foundation: Say It. Place It. Land It.
+**All marketing comes down to what you say and where you say it.**
+
+- **Say It (strategic message):** not what you say, but what the buyer perceives. Figure out what they're already thinking, say it back, and they'll agree and engage.
+- **Place It (tactical placement):** how you distribute the message. Placement bends the message. Every channel has its own rules: radio needs the phone number and website said three or four times in thirty seconds; a search ad has one line to land.
+- **Land It:** message and placement only matter if they land with the right buyer.
+
+## The Law of the Knockdown List
+**Marketing money must be spent in inverse proportion to uncertainty.**
+
+- Disqualify prospects cheaply first. Spend the expensive money only on the ones who are left.
