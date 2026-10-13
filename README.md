@@ -4,6 +4,8 @@
 
 The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 20 marketing laws that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
 
+**Download it:** get the Brain for Claude, ChatGPT or Gemini at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/).
+
 Ask Claude a marketing question with the Brain installed and you get answers grounded in those laws, not generic advice.
 
 ## How it works
@@ -18,7 +20,7 @@ Everything runs inside Claude. There's no account to create, no connector, and n
 
 ## Want the full Brain?
 
-The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbooks**: the order of operations, the reusable plays, and step-by-step run sheets like the AI Search Playbook. Get it at [jrcmo.com](https://jrcmo.com).
+The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbooks**: the order of operations, the reusable plays, and step-by-step run sheets like the AI Search Playbook. Get it at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/).
 
 ## Example prompts
 
@@ -29,6 +31,9 @@ The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbook
 - "Which marketing KPIs should I lock in on day one so I know if this is working in 30 days?"
 
 ## Install
+
+### Download
+Get the Brain at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/), with versions for Claude, ChatGPT and Gemini.
 
 ### From the Claude directory
 Open the Claude directory, search for **Fractional CMO Brain**, and click **Add**.
