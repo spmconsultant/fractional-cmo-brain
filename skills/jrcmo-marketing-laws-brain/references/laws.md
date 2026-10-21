@@ -1,6 +1,6 @@
 # The JRcmo Marketing Laws
 
-Every law is named **JRcmo Law #N — Name**, from JRcmo Law #1 to JRcmo Law #20.
+Every law is named **JRcmo Law #N — Name**, from JRcmo Law #1 to JRcmo Law #24.
 
 A LAW is how marketing works whether you like it or not — a smart competitor would be forced to agree. Every law is taught the same way: **WHAT** is true, **WHY** it's true, and **HOW** to use it. Then you go do it.
 
@@ -112,6 +112,34 @@ These laws come from 25+ years of real campaigns: $1.5B+ in ad placements since 
 - **Why:** The bridge is made of trust — but not the word "trust." Platitudes fall into the gap. Specific, checkable details hold weight.
 - **The Plank Test:** For every claim, ask "could the buyer check this before they cross?" If yes, it's a plank. If no, it's decoration and it breaks under weight.
 - **How:** The gap is the four barriers from JRcmo Law #2 (risk, confusion, relevance, emotional resistance). Each needs its own planks. The bridge hangs from four cables — Depend, Like, Relate, Knowledge. Cut one and it drops.
+- **Build the bridge:** Name the four doubts your buyer has before calling. Write two checkable planks for each: a number, a date, a name, a written term. Delete the decoration: any line a competitor could say word for word (JRcmo Law #4). Put each plank where the doubt shows up: the price explanation near the button, the guarantee next to the form, the dated result next to the claim it proves.
+
+## JRcmo Law #21 — Own One Word
+- **What:** Buyers file every business under one word or tight phrase, and call whoever owns that word when the need shows up. Try to own several words and you own none: you get filed under the generic category.
+- **Why:** A business that markets ten services at equal volume becomes "another [category] company" and loses each specific call to the competitor who owns that one word. AI assistants repeat what the web says consistently about a business (JRcmo Law #19), so five versions of what you do means AI trusts none of them.
+- **The test:** Ask five customers, "In one word, what are we known for?" If their answers don't match each other and don't match your homepage headline, you don't own a word yet.
+- **How:** Ask five customers and five staff the one-word question. Pull your top three competitors' homepage headlines, and ask ChatGPT and Perplexity what you're known for. Score each candidate word: tied to your best margin, unclaimed by a competitor, already used by customers. The owner signs off, then the word goes into the homepage headline, Google Business Profile, ads and every directory listing. Re-check in 90 days. Owning a word doesn't mean you stop selling everything else; the other services get found after the buyer lands and trusts you.
+
+## JRcmo Law #22 — Better Is Invisible. First Is Remembered.
+- **What:** Buyers can't verify "better," so they ignore it. They remember who was first to own an idea in their mind. If a market already has a leader, don't claim to be better: name a new category and be the first to define it.
+- **Why:** Every competitor says they're better, which makes "better" a platitude (JRcmo Law #4). When buyers can't tell providers apart, they compare the one thing they can measure: price. The business that owns a category gets asked for, not compared.
+- **The test:** Remove your company name from your pitch. If the only claim left is "better," it fails.
+- **How:** List what buyers fear in your category, from call recordings and leads that didn't close. Find the attribute competitors bury: usually what buyers care about most and the industry talks about least. Name it in plain words a buyer could type into Google or ask an AI, ideally around the damage it helps them avoid (JRcmo Law #10). Publish the first clear "What is [category]?" page, answered in the first 150 words. Repeat the name everywhere: ads, Google Business Profile, sales calls.
+- **Examples:** "Better plumbing service" is invisible. "Fix your pipes without tearing out your floors" is remembered.
+
+## JRcmo Law #23 — Uneducated Buyers Buy on Price
+- **What:** Most buyers can't judge workmanship, process or expertise on their own. If nobody teaches them what to look for, they compare the one number they can see: price. The business that teaches buyers how to judge the work sets the standard every competitor is measured against.
+- **Why:** Buyers aren't cheap; they're uninformed. A homeowner comparing three roofing quotes can't see the underlayment, flashing or insurance coverage, so they pick the lowest number. "Too expensive" is usually the wrong loss reason: nobody showed the buyer why the cheaper quote costs more in the end.
+- **The test:** After reading your page, could a buyer ask a competitor a question that competitor would struggle to answer? If not, you informed the buyer but didn't educate them.
+- **How:** Build a Buyer's Yardstick: "The 5 Questions to Ask Before You Hire Any [Category]." Each question is one you answer well and the average competitor answers badly, and each is tied to a consequence ("Ask if they pull the permit. If they don't, the insurance claim can be denied."). Ship it as a page, a one-page PDF and a sales-call script, and attach it to every quote. Never name a competitor. Track close rate on quotes sent with the Yardstick versus without, and how often price is the loss reason.
+- **Informing vs. educating:** "We use premium materials" informs. "Ask every roofer what underlayment they use. If it's 15 lb felt, your roof has half the life of synthetic" educates.
+
+## JRcmo Law #24 — Trash Talking Politely
+- **What:** Never name or insult a competitor. Describe what your whole category does by default as a neutral fact, put your difference right next to it, and let the buyer reach the conclusion.
+- **Why:** The buyer probably hired one of those competitors before. Insult that company and you tell the buyer they chose badly, so they defend the decision and you sound unprofessional. Naming a competitor also gives them free awareness, and a specific, measurable claim about them that you can't prove carries legal risk. Broad boasts are generally treated as puffery; specific claims about a named company are not.
+- **The rules:** No names, no insults, no numbers about anyone else.
+- **Three moves:** The only move ("The only fractional CMO who shows you the strategy before you hire"). The category default ("Most [category] do X by default. You get Y."). The structural tell ("An agency gets paid to run ads. A CMO gets paid when the ads pay off.").
+- **How:** Write the category default as a neutral fact. Put your difference in the same or the next sentence. Strip every name, insult and number about anyone else. End on what the buyer gets. This isn't legal advice: have an attorney review any direct comparison.
 
 ---
 

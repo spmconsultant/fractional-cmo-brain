@@ -2,7 +2,7 @@
 
 **Most marketing runs on guesses. Yours should run on laws.**
 
-The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 20 marketing laws, JRcmo Law #1 to JRcmo Law #20, that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
+The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 24 marketing laws, JRcmo Law #1 to JRcmo Law #24, that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
 
 **Get it:** add the Brain to Claude, ChatGPT or Gemini at [getcmobrain.ai](https://getcmobrain.ai).
 

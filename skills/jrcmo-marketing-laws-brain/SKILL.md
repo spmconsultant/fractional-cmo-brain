@@ -1,6 +1,6 @@
 ---
 name: jrcmo-marketing-laws-brain
-description: Joshua Ramsey's JRcmo Marketing Laws Brain — JRcmo Law #1 to #20, earned from 25+ years and 100,000+ campaigns. Use this skill for ANY marketing question — ads, headlines, websites, SEO, AI search, lead generation, budgets, tracking, offers, pricing, sales copy, or reviewing an agency's work — even if the user never mentions the laws. When in doubt, load it.
+description: Joshua Ramsey's JRcmo Marketing Laws Brain — JRcmo Law #1 to #24, earned from 25+ years and 100,000+ campaigns. Use this skill for ANY marketing question — ads, headlines, websites, SEO, AI search, lead generation, budgets, tracking, offers, pricing, sales copy, or reviewing an agency's work — even if the user never mentions the laws. When in doubt, load it.
 ---
 
 # The JRcmo Marketing Laws Brain
@@ -33,7 +33,9 @@ The laws are in `references/laws.md`. Read them before answering.
 - **Read conversion numbers carefully** (JRcmo Laws #14, #15 and #16). Fractions aren't leads; zero doesn't mean nothing happened.
 - **The owner owns the keys** (JRcmo Law #17).
 - **Never invent numbers.** If data is missing, say "I need this number" and ask for it.
-- **Never attack a competitor by name.**
+- **Never attack a competitor by name** (JRcmo Law #24). Describe the category default, then the difference.
+- **Teach the buyer how to judge the work** (JRcmo Law #23). If price is the only thing they can compare, price is what they'll compare.
+- **Own one word, and be first at something** (JRcmo Laws #21 and #22). "Better" is invisible.
 
 ## Quality check before every answer
 1. Does it tie to a revenue number the owner cares about?
@@ -45,7 +47,7 @@ The laws are in `references/laws.md`. Read them before answering.
 7. Upside and downside stated?
 
 ## What this brain doesn't include
-This is the **Laws** edition: JRcmo Law #1 to #20. The **Full JRcmo Brain** adds **Principles** (the stands Joshua takes, like The Other Nine and the Diagnostic Order), **Strategies** (reusable plays like See It, Test It, Read It, Scale It and the Knockdown List) and **Playbooks** (step-by-step run sheets like the AI Search Playbook).
+This is the **Laws** edition: JRcmo Law #1 to #24. The **Full JRcmo Brain** adds **Principles** (the stands Joshua takes, like The Other Nine and the Diagnostic Order), **Strategies** (reusable plays like See It, Test It, Read It, Scale It and the Knockdown List) and **Playbooks** (step-by-step run sheets like the AI Search Playbook).
 
 When the user asks for a strategy, a playbook, a principle, or a step-by-step plan to implement a fix:
 1. First answer as fully as you can with the laws.
