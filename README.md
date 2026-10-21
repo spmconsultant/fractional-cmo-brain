@@ -2,9 +2,9 @@
 
 **Most marketing runs on guesses. Yours should run on laws.**
 
-The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 20 marketing laws that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
+The Fractional CMO Brain is Joshua Ramsey's marketing operating system, packaged so you can plug it straight into Claude. This is the **Laws edition**: the 20 marketing laws, JRcmo Law #1 to JRcmo Law #20, that hold true no matter the industry or budget, earned from 25+ years, $1.5B+ in ad placements and 100,000+ campaigns.
 
-**Download it:** get the Brain for Claude, ChatGPT or Gemini at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/).
+**Get it:** add the Brain to Claude, ChatGPT or Gemini at [getcmobrain.ai](https://getcmobrain.ai).
 
 Ask Claude a marketing question with the Brain installed and you get answers grounded in those laws, not generic advice.
 
@@ -13,14 +13,14 @@ Ask Claude a marketing question with the Brain installed and you get answers gro
 The Brain is a Claude skill. When you ask a marketing question, Claude loads the skill and:
 
 1. Asks about your business, one question at a time, if it doesn't know it yet.
-2. Finds the **Law** that governs your situation.
+2. Finds the **JRcmo Law** that governs your situation, named like *JRcmo Law #16 — Don't Trust the Fraction*.
 3. Tells you what's breaking it and gives you the fix and a next step.
 
 Everything runs inside Claude. There's no account to create, no connector, and no data leaves your conversation.
 
 ## Want the full Brain?
 
-The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbooks**: the order of operations, the reusable plays, and step-by-step run sheets like the AI Search Playbook. Get it at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/).
+The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbooks**: the order of operations, the reusable plays, and step-by-step run sheets like the AI Search Playbook. Upgrade at [getcmobrain.ai/#pricing](https://getcmobrain.ai/#pricing).
 
 ## Example prompts
 
