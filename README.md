@@ -33,7 +33,7 @@ The full Fractional CMO Brain adds **Principles**, **Strategies** and **Playbook
 ## Install
 
 ### Download
-Get the Brain at [jrcmo.com/blind-spot-brain](https://jrcmo.com/blind-spot-brain/), with versions for Claude, ChatGPT and Gemini.
+Get the Brain at [https://jrcmo.com/blind-spot-brain/](https://jrcmo.com/blind-spot-brain/?utm_source=github&utm_medium=referral&utm_campaign=blind-spot-brain&utm_content=readme)), with versions for Claude, ChatGPT and Gemini.
 
 ### From the Claude directory
 Open the Claude directory, search for **Fractional CMO Brain**, and click **Add**.
