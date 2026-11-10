@@ -1,3 +1,9 @@
 .DS_Store
 Thumbs.db
 *.zip
+
+# Paid Full Brain: never push to this public repo
+full-fractional-cmo-brain/
+
+# JRcmo Starter Plan skill (contains the paid Brain): never push to this public repo
+Starter Plan Skill/
